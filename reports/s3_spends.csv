@@ -1,0 +1,5 @@
+Start,End,ServiceName,Amount,USD,S3Amount,S3Unit
+2023-09-01,2023-10-01,Amazon Simple Storage Service,1.1406175613,USD,50.6247026729,GB-Month
+2023-10-01,2023-11-01,Amazon Simple Storage Service,1.1843082924,USD,52.3723316739,GB-Month
+2023-11-01,2023-12-01,Amazon Simple Storage Service,1.1998848568,USD,52.9953945497,GB-Month
+2023-12-01,2023-12-31,Amazon Simple Storage Service,-2.5e-09,USD,53.6618252776,GB-Month
