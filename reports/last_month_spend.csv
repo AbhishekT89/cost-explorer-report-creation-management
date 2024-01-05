@@ -1,0 +1,32 @@
+Start,End,ServiceName,Amount,USD
+2023-12-01,2023-12-31,AWS CloudShell,2.8171e-06,USD
+2023-12-01,2023-12-31,AWS CloudTrail,0.0,USD
+2023-12-01,2023-12-31,AWS Cost Explorer,0.0,USD
+2023-12-01,2023-12-31,AWS Data Transfer,-0.7154121638,USD
+2023-12-01,2023-12-31,AWS Glue,0.0,USD
+2023-12-01,2023-12-31,AWS Key Management Service,-6e-08,USD
+2023-12-01,2023-12-31,AWS Lambda,0.0,USD
+2023-12-01,2023-12-31,AWS Secrets Manager,0.0,USD
+2023-12-01,2023-12-31,AWS Step Functions,0.0,USD
+2023-12-01,2023-12-31,AWS Support (Business),0.0,USD
+2023-12-01,2023-12-31,AWS Systems Manager,0.0,USD
+2023-12-01,2023-12-31,Amazon API Gateway,0.0,USD
+2023-12-01,2023-12-31,Amazon CloudFront,-1e-10,USD
+2023-12-01,2023-12-31,Amazon DynamoDB,0.0,USD
+2023-12-01,2023-12-31,Amazon EC2 Container Registry (ECR),9.98e-08,USD
+2023-12-01,2023-12-31,Amazon ElastiCache,0.0,USD
+2023-12-01,2023-12-31,EC2 - Other,0.7109520751,USD
+2023-12-01,2023-12-31,Amazon Elastic Compute Cloud - Compute,0.0023356134,USD
+2023-12-01,2023-12-31,Amazon Elastic Container Service for Kubernetes,0.0,USD
+2023-12-01,2023-12-31,Amazon Elastic File System,0.0,USD
+2023-12-01,2023-12-31,Amazon Elastic Load Balancing,0.0010449057,USD
+2023-12-01,2023-12-31,Amazon OpenSearch Service,0.0003954938,USD
+2023-12-01,2023-12-31,Amazon Relational Database Service,-6e-10,USD
+2023-12-01,2023-12-31,Amazon Simple Email Service,3e-10,USD
+2023-12-01,2023-12-31,Amazon Simple Notification Service,0.0,USD
+2023-12-01,2023-12-31,Amazon Simple Queue Service,0.0,USD
+2023-12-01,2023-12-31,Amazon Simple Storage Service,0.0006816433,USD
+2023-12-01,2023-12-31,Amazon Virtual Private Cloud,0.0,USD
+2023-12-01,2023-12-31,AmazonCloudWatch,-1.945e-07,USD
+2023-12-01,2023-12-31,Claude Instant (Amazon Bedrock Edition),40.73140541,USD
+2023-12-01,2023-12-31,Tax,7.33,USD
